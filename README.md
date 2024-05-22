@@ -24,7 +24,7 @@ This Python-based text analyzer is designed to clean, optimize, and visualize te
 3. **Install the required dependencies:**
    
     ```sh
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 4. **Run the text analysis script:**
    
